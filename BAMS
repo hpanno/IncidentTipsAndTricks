@@ -1,0 +1,9 @@
+To scale printing:
+  Layout: 72x108
+  Export to PDF
+  Print: Poster setting with overlap
+
+Data Driven Pages:
+  Layout:36x108 with DDP grid
+  Export to PDF
+  Print: Each export
