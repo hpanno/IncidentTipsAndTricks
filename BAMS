@@ -2,6 +2,12 @@ To scale printing:
   Layout: 72x108
   Export to PDF
   Print: Poster setting with overlap
+  
+  Layout:72x72
+  Export to PDF
+  Print:
+    Properties> Custom> Width:36 inches, Length:72 inches
+    Poster> Tile Scale: 196%; Overlap: .5 in
 
 Data Driven Pages:
   Layout:36x108 with DDP grid
